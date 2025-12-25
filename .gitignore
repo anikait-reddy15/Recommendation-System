@@ -1,1 +1,5 @@
+#Not commiting unecessary files or big files like the dataset virtual env etc
+
 Dataset/
+.venv/
+.vscode/
