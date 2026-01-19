@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import os
 
+
 dataset_path = r"C:\Projects\Recommendation-System\Dataset" # Dataset folder path
 
 movies_path = os.path.join(dataset_path, "movies.csv") # Movies dataset path
